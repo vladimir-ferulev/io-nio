@@ -1,0 +1,2 @@
+Проект из статьи https://www.baeldung.com/netty-http2
+Клиент запускается в тестах Http2ClientLiveTest

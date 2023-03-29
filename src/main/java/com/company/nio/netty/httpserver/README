@@ -1,0 +1,2 @@
+Проект из статьи https://www.baeldung.com/java-netty-http-server
+Сервер тестируется клиентом в HttpServerLiveTest
